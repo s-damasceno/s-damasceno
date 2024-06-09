@@ -3,14 +3,16 @@
 </p>
 
 <div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=038bbb"/></a>
+  <a href="mailto:samueldamasceno.vip@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=038bbb"/></a>
+  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=038bbb"/></a>
+  <a href="https://www.instagram.com/seu-perfil" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=038bbb"/></a>
 </div>
 
 ## 🎧 Sobre Mim
 
 - Tenho 18 anos.
-- Estou no 1º semestre de Análise e Desenvolvimento de Sistemas na FIAP
-- 
+- Estou no 1º semestre de Análise e Desenvolvimento de Sistemas na FIAP.
+- Aprendo rápido e gosto de encontrar soluções criativas para os problemas.
 
 ---
 
@@ -31,8 +33,9 @@
 ## 📊 Estatísticas
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samueldamasceno&show_icons=true&theme=synthwave&bg_color=010d23&title_color=e19f41&text_color=fccb6f&icon_color=038bbb" alt="Samuel's GitHub stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldamasceno&layout=compact&theme=synthwave&bg_color=010d23&title_color=e19f41&text_color=fccb6f" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=samueldamasceno&show_icons=true&theme=synthwave&bg_color=010d23&title_color=e19f41&text_color=fccb6f&icon_color=038bbb&locale=pt-br" alt="Samuel's GitHub stats" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldamasceno&layout=compact&theme=synthwave&bg_color=010d23&title_color=e19f41&text_color=fccb6f&locale=pt-br" alt="Linguagens mais usadas" height="200"/>
 </p>
+
 
 ---
