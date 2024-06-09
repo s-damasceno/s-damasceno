@@ -11,15 +11,31 @@
 
 ## 💻 Estou aprendendo...
 
-<p align="center" >
-  <img alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="75" height="75" style="margin: 10px;"/>
-  <img alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="75" height="75" style="margin: 10px;"/>
-  <img alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="75" height="75" style="margin: 10px;"/>
-  <img alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="75" height="75" style="margin: 10px;"/>
-  <img alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain-wordmark.svg" width="75" height="75" style="margin: 10px;"/>
-
-
+<p align="center">
+  <strong>Linguagens:</strong>
 </p>
+
+<p align="center" >
+  <img alt="html" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-plain-wordmark.svg" width="75" height="75"/>
+<img alt="javascript" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="75" height="75"/>
+  <img alt="css" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-plain-wordmark.svg" width="75" height="75"/>
+  <img alt="python" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-plain.svg" width="75" height="75"/>
+  <img alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" width="75" height="75"/>
+</p>
+
+<p align="center">
+  <strong>Ferramentas:</strong>
+</p>
+
+<p align="center">
+<img alt="visual studio code" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="75" height="75"/>
+<img alt="intellij" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" width="75" height="75"/>
+<img alt="pycharm" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="75" height="75"/>
+<img alt="git" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="75" height="75"/>
+<img alt="github" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" width="75" height="75"/>
+<img alt="photoshop" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" width="75" height="75"/>
+</p>     
+          
 
 ---
 
@@ -28,6 +44,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samueldamasceno&show_icons=true&bg_color=010d23&title_color=e19f41&text_color=fccb6f&icon_color=038bbb&locale=pt-br" alt="Samuel's GitHub stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldamasceno&layout=compact&bg_color=010d23&title_color=e19f41&text_color=fccb6f&locale=pt-br" alt="Linguagens mais usadas" height="150"/>
+  
 </p>
 
 
