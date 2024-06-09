@@ -1,6 +1,8 @@
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=fccb6f&center=true&vCenter=true&repeat=false&random=false&width=1200&height=200&lines=Olá,+Eu+sou+o+Samuel!&background=010d23" alt="Typing SVG" />
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=500&size=50&duration=4000&pause=300&color=fccb6f&center=true&vCenter=true&repeat=false&random=false&width=1200&height=200&lines=Olá!+Eu+sou+o+Samuel!&background=010d23" alt="Typing SVG" />
 </p>
+
+
 
 <div align="center">
   <a href="mailto:samueldamasceno.vip@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=038bbb"/></a>
