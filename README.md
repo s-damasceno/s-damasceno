@@ -8,6 +8,15 @@
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=038bbb"/></a> -->
 </div>
 
+<br>
+<p align="center">
+    <br>
+    <strong>Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP<strong>
+    <br>
+    🎧
+    <br>
+    <br>
+</p>
 
 ## 💻 Estou aprendendo...
 
@@ -23,6 +32,7 @@
   <img alt="java" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" width="75" height="75"/>
 </p>
 
+<br>
 <p align="center">
   <strong>Ferramentas:</strong>
 </p>
