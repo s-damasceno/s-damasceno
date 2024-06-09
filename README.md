@@ -32,9 +32,9 @@
 
 ## 📊 Estatísticas
 
-<p style="display: flex; justify-content: center; gap: 5%">
-  <img src="https://github-readme-stats.vercel.app/api?username=samueldamasceno&show_icons=true&theme=synthwave&bg_color=010d23&title_color=e19f41&text_color=fccb6f&icon_color=038bbb&locale=pt-br" alt="Samuel's GitHub stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldamasceno&layout=compact&theme=synthwave&bg_color=010d23&title_color=e19f41&text_color=fccb6f&locale=pt-br" alt="Linguagens mais usadas" height="150"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=samueldamasceno&show_icons=true&bg_color=010d23&title_color=e19f41&text_color=fccb6f&icon_color=038bbb&locale=pt-br" alt="Samuel's GitHub stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldamasceno&layout=compact&bg_color=010d23&title_color=e19f41&text_color=fccb6f&locale=pt-br" alt="Linguagens mais usadas" height="150"/>
 </p>
 
 
