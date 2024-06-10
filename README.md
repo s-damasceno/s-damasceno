@@ -1,11 +1,11 @@
 <p align="center">
-  <img align="center" src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=500&size=50&duration=4000&pause=300&color=fccb6f&center=true&vCenter=true&repeat=false&random=false&width=1200&height=200&lines=Olá!+Eu+sou+o+Samuel!&background=010d23" alt="Typing SVG" />
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Open+Sans&weight=500&size=50&duration=4000&pause=300&color=38b000&center=true&vCenter=true&repeat=false&random=false&width=1200&height=200&lines=Olá!+Eu+sou+o+Samuel!&background=010d23" alt="Typing SVG" />
 </p>
 
 <div align="center">
-  <a href="mailto:samueldamasceno.vip@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=038bbb"/></a>
-  <a href="https://www.linkedin.com/in/samuel-damasceno-174a32312/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=038bbb"/></a>
-  <!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=038bbb"/></a> -->
+  <a href="mailto:samueldamasceno.vip@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=38b000"/></a>
+  <a href="https://www.linkedin.com/in/samuel-damasceno-174a32312/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&color=38b000"/></a>
+  <!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=38b000"/></a> -->
 </div>
 
 <br>
@@ -52,8 +52,8 @@
 ## 📊 Estatísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samueldamasceno&show_icons=true&theme=transparent&title_color=e19f41&text_color=fccb6f&icon_color=038bbb&hide_border=true" alt="Samuel's GitHub stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldamasceno&layout=compact&theme=transparent&title_color=e19f41&text_color=fccb6f&hide_border=true" alt="Linguagens mais usadas" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=samueldamasceno&show_icons=true&theme=radical&title_color=38b000&text_color=00ff80&icon_color=38b000&bg_color=010d23&hide_border=true" alt="Samuel's GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldamasceno&layout=compact&theme=radical&title_color=38b000&text_color=00ff80&bg_color=010d23&hide_border=true" alt="Linguagens mais usadas" height="180"/>
 </div>
 
 ---
