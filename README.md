@@ -8,16 +8,6 @@
   <!-- <a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&color=38b000"/></a> -->
 </div>
 
-<br>
-<p align="center">
-    <br>
-    <strong>Sou estudante de Análise e Desenvolvimento de Sistemas na FIAP<strong>
-    <br>
-    🎧
-    <br>
-    <br>
-</p>
-
 ## 💻 Estou aprendendo...
 
 <p align="center">
