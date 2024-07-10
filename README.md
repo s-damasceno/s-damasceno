@@ -66,3 +66,8 @@
   <img src="https://img.shields.io/badge/Adobe_Photoshop-010d23?style=for-the-badge&logo=adobe-photoshop&logoColor=010d23&color=f1ae2b" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Figma-white?style=for-the-badge&logo=figma&logoColor=white&color=72bca5" alt="Figma" />
 </p>
+
+---
+
+<br>
+<br>
