@@ -48,10 +48,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white&color=bc0b27" alt="React"/>
-  <img src="https://img.shields.io/badge/Flask-f4ddb4?style=for-the-badge&logo=flask&logoColor=white&color=010d23" alt="Flask"/>
-  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white&color=bc0b27" alt="Django"/>
   <img src="https://img.shields.io/badge/Sass-f4ddb4?style=for-the-badge&logo=sass&logoColor=white&color=010d23" alt="Sass"/>
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white&color=bc0b27" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white&color=bc0b27" alt="Django"/>
 </p>
 
 ---
