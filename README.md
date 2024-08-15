@@ -59,13 +59,13 @@
                 <td><img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=ffffff&color=bc0b27" alt="Python" /></td>
                 <td><img src="https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=ffffff&color=bc0b27" alt="Flask" /></td>
                 <td><img src="https://img.shields.io/badge/Django-ffffff?style=for-the-badge&logo=django&logoColor=ffffff&color=bc0b27" alt="Django" /></td>
-                <td><img src="https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=java&logoColor=ffffff&color=bc0b27" alt="Java" /></td>
+                <td><img src="https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=openjdk&logoColor=ffffff&color=bc0b27" alt="Java" /></td>
             </tr>
             <tr>
                 <td><img src="https://img.shields.io/badge/Ferramentas-f4ddb4?style=for-the-badge&logo=none&logoColor=white&color=72bca5" alt="Ferramentas" /></td>
                 <td><img src="https://img.shields.io/badge/Git-f4ddb4?style=for-the-badge&logo=git&logoColor=f4ddb4&color=010d23" alt="Git" /></td>
                 <td><img src="https://img.shields.io/badge/GitHub-f4ddb4?style=for-the-badge&logo=github&logoColor=f4ddb4&color=010d23" alt="GitHub" /></td>
-                <td><img src="https://img.shields.io/badge/VS_Code-f4ddb4?style=for-the-badge&logo=visual-studio-code&logoColor=f4ddb4&color=010d23" alt="VS Code" /></td>
+                <td><img src="https://img.shields.io/badge/VS_Code-f4ddb4?style=for-the-badge&logo=visual%20studio%20code&logoColor=f4ddb4&color=010d23" alt="VS Code" /></td>
                 <td><img src="https://img.shields.io/badge/IntelliJ-f4ddb4?style=for-the-badge&logo=intellij-idea&logoColor=f4ddb4&color=010d23" alt="IntelliJ IDEA" /></td>
             </tr>
             <tr>
