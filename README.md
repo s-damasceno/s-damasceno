@@ -29,8 +29,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldamasceno&layout=compact&theme=radical&title_color=72bca5&text_color=f4ddb4&bg_color=010d23&hide_border=true" alt="Linguagens mais usadas" height="180"/>
 </div>
 
+<br>
+<br>
 
-<div align="center" style='margin-top: 100px'>
+---
+
+<div align="center">
     <table>
         <tbody align='center'>
             <tr>
