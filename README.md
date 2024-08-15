@@ -9,8 +9,6 @@
 </div>
 <br>
 
-#
-
 <br>
 <br>
 <p align="center">
@@ -19,20 +17,14 @@
     🎧
     <br>
 </p>
-<br>
-<br>
 
----
+<br>
+<br>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=samueldamasceno&show_icons=true&theme=radical&title_color=72bca5&text_color=f4ddb4&icon_color=72bca5&bg_color=010d23&hide_border=true" alt="Samuel's GitHub stats" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samueldamasceno&layout=compact&theme=radical&title_color=72bca5&text_color=f4ddb4&bg_color=010d23&hide_border=true" alt="Linguagens mais usadas" height="180"/>
 </div>
-
-<br>
-<br>
-
----
 
 <br>
 <br>
