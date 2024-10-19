@@ -59,7 +59,7 @@
               <td></td>
               <td></td>
               <td></td>
-          </tr>-->
+          </tr>
           <tr>
               <td><img src="https://img.shields.io/badge/IDEs-72bca5?style=for-the-badge&logo=none&logoColor=white&color=72bca5" alt="IDEs" /></td>
               <td><img src="https://img.shields.io/badge/VS_Code-f1ae2b?style=for-the-badge&logo=visual%20studio%20code&logoColor=010d23&color=f1ae2b" alt="VS Code" /></td>
