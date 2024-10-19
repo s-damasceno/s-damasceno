@@ -31,45 +31,53 @@
 
 <div align="center">
     <table>
-        <tbody align='center'>
-            <tr>
-                <td><img src="https://img.shields.io/badge/Front_End-f4ddb4?style=for-the-badge&logo=none&logoColor=white&color=72bca5" alt="Front-End" /></td>
-                <td><img src="https://img.shields.io/badge/HTML5-010d23?style=for-the-badge&logo=html5&logoColor=010d23&color=f1ae2b" alt="HTML5" /></td>
-                <td><img src="https://img.shields.io/badge/CSS3-010d23?style=for-the-badge&logo=css3&logoColor=010d23&color=f1ae2b" alt="CSS3" /></td>
-                <td><img src="https://img.shields.io/badge/Sass-010d23?style=for-the-badge&logo=sass&logoColor=010d23&color=f1ae2b" alt="Sass" /></td>
-                <td><img src="https://img.shields.io/badge/JavaScript-010d23?style=for-the-badge&logo=javascript&logoColor=010d23&color=f1ae2b" alt="JavaScript" /></td>
-            </tr>
-            <tr>
-                <td></td>
-                <td><img src="https://img.shields.io/badge/React-010d23?style=for-the-badge&logo=react&logoColor=010d23&color=f1ae2b" alt="React" /></td>
-                <td><img src="https://img.shields.io/badge/Vue.js-010d23?style=for-the-badge&logo=vue.js&logoColor=010d23&color=f1ae2b" alt="Vue.js" /></td>
-                <td></td>
-                <td></td>
-            </tr>
-            <tr>
-                <td><img src="https://img.shields.io/badge/Back_End-f4ddb4?style=for-the-badge&logo=none&logoColor=white&color=72bca5" alt="Back-End" /></td>
-                <td><img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=ffffff&color=bc0b27" alt="Python" /></td>
-                <td><img src="https://img.shields.io/badge/Flask-ffffff?style=for-the-badge&logo=flask&logoColor=ffffff&color=bc0b27" alt="Flask" /></td>
-                <td><img src="https://img.shields.io/badge/Django-ffffff?style=for-the-badge&logo=django&logoColor=ffffff&color=bc0b27" alt="Django" /></td>
-                <td><img src="https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=openjdk&logoColor=ffffff&color=bc0b27" alt="Java" /></td>
-            </tr>
-            <tr>
-                <td><img src="https://img.shields.io/badge/Ferramentas-f4ddb4?style=for-the-badge&logo=none&logoColor=white&color=72bca5" alt="Ferramentas" /></td>
-                <td><img src="https://img.shields.io/badge/Git-f4ddb4?style=for-the-badge&logo=git&logoColor=f4ddb4&color=010d23" alt="Git" /></td>
-                <td><img src="https://img.shields.io/badge/GitHub-f4ddb4?style=for-the-badge&logo=github&logoColor=f4ddb4&color=010d23" alt="GitHub" /></td>
-                <td><img src="https://img.shields.io/badge/VS_Code-f4ddb4?style=for-the-badge&logo=visual%20studio%20code&logoColor=f4ddb4&color=010d23" alt="VS Code" /></td>
-                <td><img src="https://img.shields.io/badge/IntelliJ-f4ddb4?style=for-the-badge&logo=intellij-idea&logoColor=f4ddb4&color=010d23" alt="IntelliJ IDEA" /></td>
-            </tr>
-            <tr>
-                <td></td>
-                <td><img src="https://img.shields.io/badge/Photoshop-f4ddb4?style=for-the-badge&logo=adobe-photoshop&logoColor=f4ddb4&color=010d23" alt="Photoshop" /></td>
-                <td><img src="https://img.shields.io/badge/Figma-f4ddb4?style=for-the-badge&logo=figma&logoColor=f4ddb4&color=010d23" alt="Figma" /></td>
-                <td><img src="https://img.shields.io/badge/Excel-f4ddb4?style=for-the-badge&logo=microsoft-excel&logoColor=f4ddb4&color=010d23" alt="Excel" /></td>
-                <td></td>
-            </tr>
-        </tbody>
-        <tfoot></tfoot>
-    </table>
+      <tbody align='center'>
+          <tr>
+              <td><img src="https://img.shields.io/badge/JavaScript-72bca5?style=for-the-badge&logo=none&logoColor=white&color=72bca5" alt="JavaScript" /></td>
+              <td><img src="https://img.shields.io/badge/TypeScript-f1ae2b?style=for-the-badge&logo=typescript&logoColor=010d23&color=f1ae2b" alt="TypeScript" /></td>
+              <td><img src="https://img.shields.io/badge/React-f1ae2b?style=for-the-badge&logo=react&logoColor=010d23&color=f1ae2b" alt="React" /></td>
+              <td><img src="https://img.shields.io/badge/Next.js-f1ae2b?style=for-the-badge&logo=next.js&logoColor=010d23&color=f1ae2b" alt="Next.js" /></td>
+              <td><img src="https://img.shields.io/badge/Vue.js-f1ae2b?style=for-the-badge&logo=vue.js&logoColor=010d23&color=f1ae2b" alt="Vue.js" /></td>
+          </tr>
+          <tr>
+              <td></td>
+              <td><img src="https://img.shields.io/badge/NestJS-f1ae2b?style=for-the-badge&logo=nestjs&logoColor=010d23&color=f1ae2b" alt="NestJS" /></td>
+              <td></td>
+              <td></td>
+              <td></td>
+          </tr>
+          <tr>
+              <td><img src="https://img.shields.io/badge/Python-72bca5?style=for-the-badge&logo=none&logoColor=white&color=72bca5" alt="Python" /></td>
+              <td><img src="https://img.shields.io/badge/Flask-bc0b27?style=for-the-badge&logo=flask&logoColor=f4ddb4&color=bc0b27" alt="Flask" /></td>
+              <td><img src="https://img.shields.io/badge/Django-bc0b27?style=for-the-badge&logo=django&logoColor=f4ddb4&color=bc0b27" alt="Django" /></td>
+              <td></td>
+              <td></td>
+          </tr>
+          <tr>
+              <td><img src="https://img.shields.io/badge/Java-72bca5?style=for-the-badge&logo=none&logoColor=white&color=72bca5" alt="Java" /></td>
+              <td><img src="https://img.shields.io/badge/Spring_Boot-010d23?style=for-the-badge&logo=spring&logoColor=f4ddb4&color=010d23" alt="Spring Boot" /></td>
+              <td></td>
+              <td></td>
+              <td></td>
+          </tr>-->
+          <tr>
+              <td><img src="https://img.shields.io/badge/IDEs-72bca5?style=for-the-badge&logo=none&logoColor=white&color=72bca5" alt="IDEs" /></td>
+              <td><img src="https://img.shields.io/badge/VS_Code-f1ae2b?style=for-the-badge&logo=visual%20studio%20code&logoColor=010d23&color=f1ae2b" alt="VS Code" /></td>
+              <td><img src="https://img.shields.io/badge/IntelliJ-f1ae2b?style=for-the-badge&logo=intellij-idea&logoColor=010d23&color=f1ae2b" alt="IntelliJ IDEA" /></td>
+              <td><img src="https://img.shields.io/badge/PyCharm-f1ae2b?style=for-the-badge&logo=pycharm&logoColor=010d23&color=f1ae2b" alt="PyCharm" /></td>
+              <td></td>
+          </tr>
+          <tr>
+              <td><img src="https://img.shields.io/badge/Outros-72bca5?style=for-the-badge&logo=none&logoColor=white&color=72bca5" alt="Outros" /></td>
+              <td><img src="https://img.shields.io/badge/Excel-bc0b27?style=for-the-badge&logo=microsoft-excel&logoColor=f4ddb4&color=bc0b27" alt="Excel" /></td>
+              <td><img src="https://img.shields.io/badge/Photoshop-bc0b27?style=for-the-badge&logo=adobe-photoshop&logoColor=f4ddb4&color=bc0b27" alt="Photoshop" /></td>
+              <td><img src="https://img.shields.io/badge/Figma-bc0b27?style=for-the-badge&logo=figma&logoColor=f4ddb4&color=bc0b27" alt="Figma" /></td>
+              <td></td>
+          </tr>
+      </tbody>
+    <tfoot></tfoot>
+</table>
+
 </div>
 
 <br>
